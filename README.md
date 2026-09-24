@@ -1,13 +1,11 @@
-# kutuo-d1-max
+# kutuo-d1-max-wanwei
 
-TypeScript 编写的 npm 包，支持 ESM `import` 和 CJS `require`。
-
-适配酷拓D1Max机器人各个云台开发厂商
+万维适配酷拓D1Max机器人
 
 ## 安装
 
 ```bash
-npm install kutuo-d1-max
+npm install kutuo-d1-max-wanwei
 ```
 
 ## 使用
